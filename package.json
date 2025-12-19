@@ -1,0 +1,23 @@
+{
+  "name": "selenium-java-framework",
+  "version": "1.0.0",
+  "description": "Test Automation Framework built with Selenium and Java for browser testing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lokeshraju3445/Selenium-Java-Framework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lokeshraju3445/Selenium-Java-Framework/issues"
+  },
+  "homepage": "https://github.com/Lokeshraju3445/Selenium-Java-Framework#readme",
+  "dependencies": {
+    "@angiejones/mcp-selenium": "^0.1.21"
+  }
+}
